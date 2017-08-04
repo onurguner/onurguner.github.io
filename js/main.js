@@ -24,7 +24,6 @@ $(document).ready(function() {
 	});
 	
 	/* Charts*/
-	$('.chart').easyPieChart({
 //	$('.chart').easyPieChart({
 //		barColor: '#3498db',
 //		size: '120',
