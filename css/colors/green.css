@@ -19,6 +19,12 @@ background: #2ecc71;
 #page-contact .section-title{
 	color:#fff;
 }
+/* in order to show the phone numbers in safari iOS */
+#page-contact a[href^=tel] {
+    color: inherit;
+    text-decoration: none;
+}
+
 .btn.btn-default:hover,
 .btn.btn-default:active{
     color:#2ecc71;
